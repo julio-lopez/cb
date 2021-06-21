@@ -2,4 +2,7 @@
 2021-06-16 Elightment is an ephemeral state.
 2021-06-16 Balance is a state, not a goal.
 2021-06-16 Balance is an ephemeral state.
-2021-06-16 Elightment == balance ?
+2021-06-16 Elightment == balance ? (maybe)
+2021-06-20 Balance: keep moving, when you stand still you fall.
+2021-06-20 Resilience: get up again when you fall.
+2021-06-20 Elightment: Motion + balance (?)
